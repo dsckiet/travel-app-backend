@@ -68,7 +68,7 @@ MIDDLEWARE = [
 
 CORS_ALLOW_ALL_ORIGINS = True
 
-ROOT_URLCONF = 'travelapp.urls'
+ROOT_URLCONF = 'travelapp.travelapp.urls'
 
 TEMPLATES = [
     {
