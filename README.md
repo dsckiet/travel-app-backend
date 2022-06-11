@@ -5,7 +5,7 @@
 </p>
 
 ---
-<!-- [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=for-the-badge&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE)  -->
+<!-- [![DOCS](https://img.shields.io/badge/Frontend%20Github%20Profile-see%20docs-green?style=for-the-badge&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE)  -->
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](https://travel-app-frontend-erf7jt659-pjra99.vercel.app/home)
 
 
